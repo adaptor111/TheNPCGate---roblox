@@ -1,1 +1,1 @@
-just double click the file and do its things
+just double click the file and do its things, to play the game find the corner of left top to click the play button, once in game where you can see your roblox character, you can hold right click to move your camera, W A S D for moving, scroll for zooming, you can also reset character on esc + r + enter if something happen. You need to be online while doing all of these.
